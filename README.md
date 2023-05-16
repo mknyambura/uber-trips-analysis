@@ -6,4 +6,4 @@ By analyzing Uber trips, we can draw many patterns like which day has the highes
 
 The dataset contains data of about 4.5 million uber pickups in New York City from April to September and 14.3 million pickups from January to June 2015. You can do so much more with this dataset rather than just analyzing it.
 
-![demo](Uber Trip Analysis.jpg)
+![demo](Uber-Trip-Analysis.png)
